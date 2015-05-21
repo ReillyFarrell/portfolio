@@ -12,6 +12,8 @@ share: false
 ads: false
 ---
 
+Reilly Farrell studies music composition at Santa Clara University.
+
 ###Software
 SuperCollider
 
