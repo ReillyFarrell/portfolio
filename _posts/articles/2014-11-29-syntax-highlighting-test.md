@@ -5,7 +5,6 @@ modified:
 categories: supercollider-code
 excerpt: "A short minimalist electronic composition."
 tags: []
-url: http://reillyfarrell.github.io/portfolio/supercollider-code/pulse-wave-phase
 image:
   feature: 
   teaser: 
