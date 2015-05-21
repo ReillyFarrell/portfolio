@@ -19,7 +19,7 @@ SuperCollider
 
 Ardour
 
-Audacity
+[Audacity](http://en.wikipedia.org/wiki/Audacity_(audio_editor))
 
 MuseScore
 
