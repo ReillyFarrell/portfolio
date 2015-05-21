@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Skinny Bones
-description: "A lightweight site starter for Jekyll"
+title: Reilly Farrell's Portfolio
+description: "For music compositions"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -22,11 +22,11 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
+  name: Reilly Farrell
+  web: http://nytimes.com
+  email: reillycfarrell@gmail.com
   twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
+  bio: "Hello world!  This is my bio."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: +MichaelRoseDesign
