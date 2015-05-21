@@ -7,7 +7,7 @@ excerpt: "A short minimalist electronic composition."
 tags: []
 image:
   feature: 
-  teaser: 
+  teaser: IMG_2256.JPG
   thumb: 
 date: 2014-11-29T22:08:14-05:00
 ---
