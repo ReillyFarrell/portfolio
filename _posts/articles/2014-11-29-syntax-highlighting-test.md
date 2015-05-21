@@ -9,7 +9,7 @@ image:
   feature: 
   teaser: 
   thumb: 
-date: 2014-11-29T22:08:14-05:00
+date: 2015-5-21
 ---
 
 *A short minimalist electronic composition.*
