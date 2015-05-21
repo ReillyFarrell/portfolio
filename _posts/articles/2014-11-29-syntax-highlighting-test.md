@@ -6,15 +6,16 @@ categories: supercollider-code
 excerpt: "A short minimalist electronic composition."
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: 
+  teaser: 
+  thumb: 
 date: 2014-11-29T22:08:14-05:00
 ---
 
 *A short minimalist electronic composition.*
 
 ```
+
 //////////////////////
 // Pulse Wave Phase //
 //////////////////////
@@ -151,4 +152,5 @@ Pbind(
 
 s.record;
 s.stopRecording;
+
 ```
