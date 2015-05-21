@@ -14,9 +14,15 @@ ads: false
 
 ###Software
 SuperCollider
+
 Ardour
+
 Audacity
+
 MuseScore
+
 GuitarPro
+
 Hydrogen
+
 SooperLooper
