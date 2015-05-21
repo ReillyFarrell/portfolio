@@ -12,19 +12,19 @@ share: false
 ads: false
 ---
 
-Reilly Farrell studies music composition at Santa Clara University.
+Reilly Farrell studies music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com.](https://capybaraworld.wordpress.com/about/)
 
 ###Software
-SuperCollider
+[SuperCollider](http://en.wikipedia.org/wiki/SuperCollider)
 
-Ardour
+[Ardour](http://en.wikipedia.org/wiki/Ardour_(software))
 
 [Audacity](http://en.wikipedia.org/wiki/Audacity_(audio_editor))
 
-MuseScore
+[MuseScore](http://en.wikipedia.org/wiki/MuseScore)
 
-GuitarPro
+[Guitar Pro](http://en.wikipedia.org/wiki/Guitar_Pro)
 
-Hydrogen
+[Hydrogen](http://en.wikipedia.org/wiki/Hydrogen_(software))
 
-SooperLooper
+[SooperLooper](http://essej.net/sooperlooper/)
