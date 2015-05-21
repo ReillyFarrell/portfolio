@@ -3,7 +3,7 @@ layout: archive
 title: "SuperCollider Code"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: *"Code written in SuperCollider to generate and organize electronic compositions."*
+excerpt: "*Code written in SuperCollider to generate and organize electronic compositions.*"
 tags: []
 image:
   feature:
