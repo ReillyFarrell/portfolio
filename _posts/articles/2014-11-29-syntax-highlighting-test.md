@@ -2,7 +2,7 @@
 layout: article
 title: "First Article"
 modified:
-categories: articles
+categories: supercollider-code
 excerpt: "This is an excerpt."
 tags: []
 image:
