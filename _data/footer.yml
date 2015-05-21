@@ -3,11 +3,14 @@
 - title: Home
   url: /
 
-- title: Getting Started
-  url: /getting-started/
+- title: SuperCollider Code
+  url: /supercollider-code/
+  
+- title: Scores
+  url: /scores/
+  
+- title: SoundCloud
+  url: /soundcloud/
 
 - title: About
   url: /about/
-
-- title: Terms
-  url: /terms/
