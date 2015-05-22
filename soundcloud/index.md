@@ -9,8 +9,6 @@ image:
   feature:
   teaser:
 ---
-SoundCloud
----
 
 <div class="tiles">
 {% for post in site.categories.soundcloud %}
