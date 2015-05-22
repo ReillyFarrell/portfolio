@@ -15,7 +15,7 @@ date: 2015-5-21
 *A short minimalist electronic composition.*
 ---
 
-```
+{
 
 //////////////////////
 // Pulse Wave Phase //
@@ -154,4 +154,4 @@ Pbind(
 s.record;
 s.stopRecording;
 
-```
+}
