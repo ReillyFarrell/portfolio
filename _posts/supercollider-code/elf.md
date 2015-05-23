@@ -1,0 +1,307 @@
+---
+layout: article
+title: "Elf"
+modified:
+categories: supercollider-code
+excerpt: "Movement 2 of Sampling Suite for Masashi Hamauzu"
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+date: 2015-5-21
+---
+
+Movement 2 of Sampling Suite for Masashi Hamauzu.
+
+```
+(
+SynthDef(\granny, {|att = 0.01, sus = 1, rel = 1, gate = 1, amp = 1, trig = 0, graindur = 0.5, sndbuf, transp = 1, pos = 0, pan = 0, envbuf = -1, mix = 0.33, room = 0.1, damp = 0.1|
+	var env, snd;
+	env = EnvGen.kr(Env.linen(att, sus, rel), gate, amp, doneAction:2);
+	snd = GrainBuf.ar(2, Impulse.kr(trig), graindur, sndbuf, transp, pos, 2, pan, envbuf);
+	snd = FreeVerb2.ar(snd, snd, mix, room, damp);
+	Out.ar(0, Splay.ar(snd)*env);
+}).add;
+
+a = Buffer.readChannel(s, "/Users/reillyfarrell/Desktop/Compositions/Granular Synthesis Suite for Masashi Hamauzu (SuperCollider)/Sample Soundfiles/Elf_Sample1.wav", 0, -1, [0]);
+
+b = Buffer.readChannel(s, "/Users/reillyfarrell/Desktop/Compositions/Granular Synthesis Suite for Masashi Hamauzu (SuperCollider)/Sample Soundfiles/Elf_Sample2.wav", 0, -1, [0]);
+
+z = Buffer.sendCollection(s, Env.linen(0.00001, 0.1, 0.00001).discretize, 1);
+)
+
+(
+/////PAD/////
+~pad1 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, z,
+	\graindur, 1,
+	\pos, Pstutter(4, Pseq([0.95, 0.48, 0.95, 0.32])),
+	\transp, -1,
+	\amp, Pseq([2, 1, 0.5, 0.25], 4),
+	\dur, 1,
+	\room, 0.7,
+	\mix, 0.3,
+	\pan, Pseq([-1, 1], inf),
+);
+
+~pad2 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, z,
+	\graindur, 1,
+	\pos, Pstutter(4, Pseq([0.66, 0.15, 0.70, 0.32])),
+	\transp, -1,
+	\amp, Pseq([2, 1, 0.5, 0.25], 4),
+	\dur, 1,
+	\room, 0.7,
+	\mix, 0.3,
+	\pan, Pseq([-1, 1], inf),
+);
+
+/////PIANO/////
+~pianoa = Pbind(
+	\instrument, \granny,
+	\sndbuf, b,
+	\envbuf, z,
+	\graindur, 1/4,
+	\pos, Pseq([
+		Pn(\rest, 2), 0.79, 0.80, 0.81, 0.82, 0.83, 0.83,
+		Pn(\rest, 3), 0.88, 0.89, 0.90, 0.91, 0.92]),
+	\amp, Pseq([
+		Pn(0, 2), Pseries(3, -0.25, 6),
+		Pn(0, 3), Pseries(3, -0.25, 5)]),
+	\dur, 1,
+	\room, 0.7,
+	\mix, 0.4,
+	\transp, 2.0,
+	\pan, Prand([-1, 1], inf));
+
+~pianob = Pbind(
+	\instrument, \granny,
+	\sndbuf, b,
+	\envbuf, z,
+	\graindur, 1/4,
+	\pos, Pseq([
+		Pn(\rest, 3), 0.79, 0.80, 0.81, 0.82, 0.83,
+		Pn(\rest, 2), 0.88, 0.89, 0.90, 0.91, 0.92, 0.92]),
+	\amp, Pseq([
+		Pn(0, 3), Pseries(3, -0.25, 5),
+		Pn(0, 2), Pseries(3, -0.25, 6)]),
+	\dur, 1,
+	\room, 0.7,
+	\mix, 0.4,
+	\transp, 2.0,
+	\pan, Prand([-1, 1], inf));
+
+/////CHORD//////
+~chord1 = Pbind(
+	\instrument, \granny,
+	\sndbuf, b,
+	\envbuf, z,
+	\graindur, 1/4,
+	\pos, \rest,
+	\amp, Pseq([
+		Pn(0, 10), 2, 0,
+		Pn(0, 9), 2, Pn(0, 2),
+		Pn(0, 8), 2, Pn(0, 3),
+		Pn(0, 9), 2, Pn(0, 2)]),
+	\dur, 1/3,
+	\room, 0.7,
+	\mix, 0.3,
+	\transp, 1.0,
+	\pan, Prand([-1, 1], inf));
+
+~chord2 = Pbind(
+	\instrument, \granny,
+	\sndbuf, b,
+	\envbuf, z,
+	\graindur, 1/4,
+	\pos, \rest,
+	\amp, Pseq([
+		Pn(0, 6), 2, Pn(0, 5),
+		Pn(0, 5), 2, Pn(0, 6),
+		Pn(0, 8), 2, Pn(0, 3),
+		Pn(0, 5), 2, Pn(0, 6)]),
+	\dur, 1/3,
+	\room, 0.7,
+	\mix, 0.3,
+	\transp, 1,
+	\pan, Prand([-1, 1], inf));
+
+~chord3 = Pbind(
+	\instrument, \granny,
+	\sndbuf, b,
+	\envbuf, z,
+	\graindur, 1/4,
+	\pos, \rest,
+	\amp, Pseq([
+		Pn(0,36),
+		Pn(0,10),2,0]),
+	\dur, 1/3,
+	\room, 0.7,
+	\mix, 0.3,
+	\transp, 1.0,
+	\pan, Prand([-1, 1], inf));
+
+
+/////TICK/////
+~tick1 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, 1,
+	\graindur, 0.25,
+	\pos, Pwhite(0.1, 0.9),
+	\amp, Pwhite(10, 20),
+	\dur, Pseq([
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+		2/3, 2/4, 2/3,
+	]),
+	\room, 0.9,
+	\mix, 0.1,
+	\transp, 2,
+	\pan, Prand([-1, 1], inf));
+
+~tick2 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, 1,
+	\graindur, 0.25,
+	\pos, Pwhite(0.1, 0.9),
+	\amp, Pwhite(10, 20),
+	\dur, Pseq([
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+		2/3, 2/4, 2/3,
+	]),
+	\room, 0.7,
+	\mix, 0.2,
+	\transp, 0.2,
+	\pan, Prand([-1, 1], inf));
+
+~tick3 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, 1,
+	\graindur, 0.25,
+	\pos, Pwhite(0.1, 0.9),
+	\amp, Pwhite(10, 20),
+	\dur, Pseq([
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+		2/3, 2/4, 2/3,
+	]),
+	\room, 0.7,
+	\mix, 0.2,
+	\transp, 0.02,
+	\pan, Prand([-1, 1], inf));
+
+~tick4 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, 1,
+	\graindur, 0.25,
+	\pos, Pwhite(0.1, 0.9),
+	\amp, Pwhite(10, 20),
+	\dur, Pseq([
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+
+		2/2, 2/3, 2/4, 2/3,
+		2/2, 2/3, 2/4, 2/3,
+		2/3, 2/4, 2/3,
+	]),
+	\room, 0.7,
+	\mix, 0.2,
+	\transp, 0.02,
+	\pan, Prand([-1, 1], inf));
+
+/////CLOCK/////
+~clock1 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, 0,
+	\graindur, 1/5,
+	\pos, 0.01,
+	\amp, Pseq([Pseries(0, 0.8, 8), Pseries(6.4, -0.8, 8)]),
+	\dur, 1,
+	\room, 0.9,
+	\mix, 0.1,
+	\transp, 0.1,
+	\pan, Pseq([-1, 1], inf));
+
+~clock2 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, 0,
+	\graindur, 1/5,
+	\pos, 0.01,
+	\amp, Pseq([Pseries(0, 0.4, 16), Pseries(6.4, -0.4, 16)]),
+	\dur, 1,
+	\room, 0.9,
+	\mix, 0.1,
+	\transp, 0.1,
+	\pan, Pseq([-1, 1], inf));
+
+~clock3 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, 0,
+	\graindur, 1/5,
+	\pos, 0.01,
+	\amp, Pseq([Pseries(0, 0.4, 16), Pseries(6.4, -0.4, 16)]),
+	\dur, Prand([Pseq([3/4, 1/4]), Pseq([2/3, 1/3])], inf),
+	\room, 0.9,
+	\mix, 0.1,
+	\transp, Pseq([10, 0.01], inf),
+	\pan, Pseq([-1, 1], inf));
+
+~clock4 = Pbind(
+	\instrument, \granny,
+	\sndbuf, a,
+	\envbuf, 0,
+	\graindur, 1/5,
+	\pos, 0.01,
+	\amp, Pseq([Pn(0,15),6.4,Pseries(6.4, -0.4, 15),0]),
+	\dur, 1,
+	\room, 0.9,
+	\mix, 0.1,
+	\transp, 0.1,
+	\pan, Pseq([-1, 1], inf));
+)
+
+/////Final Score//////
+
+(
+//Pads
+Pseq([Rest(64), Pn(~pad1, 4), Pn(~pad2, 2), Pn(~pad1, 4), Pn(~pad2, 2), Pn(~pad1, 2), ~pad2, Rest(16)]).play;
+
+//Piano/Chord
+Pseq([Rest(32), ~pianoa, ~pianob, Rest(96), Rest(16), Pn(~chord1, 3), Pn(~chord2, 2), ~pianoa, ~pianob, Rest(16),~chord3]).play;
+
+//Ticks
+Pseq([Rest(16), Pn(~tick1, 3), Rest(16), Pn(~tick2, 4), Rest(16), Rest(32), Pn(~tick3, 3), ~tick4, ~tick4, Rest(48)]).play;
+
+//Clocks
+Pseq([Pn(~clock1, 3), Rest(16), Rest(32), ~clock2, ~clock1, ~clock2, Rest(16), Rest(32), Rest(32), Pn(~clock3, 2), ~clock4]).play;
+)
+
+s.record;
+s.stopRecording;
+```
