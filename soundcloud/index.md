@@ -10,8 +10,4 @@ image:
   teaser:
 ---
 
-<div class="tiles">
-{% for post in site.categories.soundcloud %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+Reilly
