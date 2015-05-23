@@ -9,7 +9,7 @@ image:
   feature:
   teaser:
 ---
-####"Code written in SuperCollider to generate and organize electronic compositions."
+####Code written in SuperCollider to generate and organize electronic compositions
 I discovered [SuperCollider](http://supercollider.github.io) from a sound design course taught by [Bruno Ruviaro](http://www.brunoruviaro.com).  This programming language is built for coding sound, and it's hands-down my favorite discovery from my time at Santa Clara University.  
 
 Here you will find the code behind my electronic music projects.  
