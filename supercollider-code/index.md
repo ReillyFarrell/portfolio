@@ -14,7 +14,7 @@ I discovered [SuperCollider](http://supercollider.github.io) from a sound design
 
 Here you will find the code behind my electronic music projects.  
 
-*(Note: Most of this code can be copied and played in SuperCollider as is.  Code for sampling pieces, however, requires SuperCollider to find a sample wav file located at a specific filepath - which, as I've written the code, only applies to my computer.  To play these pieces, please visit [my SoundCloud account.](https://soundcloud.com/capybarrage-reilly)
+*(Note: Most of this code can be copied and played in SuperCollider as is.  Code for sampling pieces, however, requires SuperCollider to find a sample wav file located at a specific filepath - which, as I've written the code, only applies to my computer.  To play these pieces, please visit [my SoundCloud account](https://soundcloud.com/capybarrage-reilly).*
 
 ####Projects in SuperCollider
 <div class="tiles">
