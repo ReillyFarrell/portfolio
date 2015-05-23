@@ -16,7 +16,7 @@ I'm Reilly Farrell.  I study music composition and creative writing at Santa Cla
 
 Come check out my work on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
 
-###Software
+####Software
 [SuperCollider](http://supercollider.github.io)
 
 [Ardour](http://ardour.org)
