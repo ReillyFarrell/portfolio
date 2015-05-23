@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "About Me"
+title: "About"
 date: 2015-05-21
 modified: 2015-05-21
 excerpt: "Who is this guy?"
@@ -13,6 +13,8 @@ ads: false
 ---
 
 Reilly Farrell studies music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com.](https://capybaraworld.wordpress.com/about/)
+
+Check out his work on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
 
 ###Software
 [SuperCollider](http://supercollider.github.io)
