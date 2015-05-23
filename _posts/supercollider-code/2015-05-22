@@ -1,0 +1,60 @@
+---
+layout: article
+title: "Kaki"
+modified:
+categories: supercollider-code
+excerpt: "Movement 4 of Sampling Suite for Masashi Hamauzu"
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+date: 2015-05-22
+---
+
+(
+SynthDef(\granny, {|att = 0.01, sus = 1, rel = 1, gate = 1, amp = 1, trig = 0, graindur = 0.5, sndbuf, transp = 1, pos = 0, pan = 0, envbuf = -1, mix = 0.33, room = 0.1, damp = 0.1|
+	var env, snd;
+	env = EnvGen.kr(Env.asr(att, sus, rel), gate, amp, doneAction:2);
+	snd = GrainBuf.ar(2, Impulse.kr(trig), graindur, sndbuf, transp, pos, 2, pan, envbuf);
+	snd = FreeVerb2.ar(snd, snd, mix, room, damp);
+	Out.ar(0, Splay.ar(snd)*env);
+}).add;
+
+a = Buffer.readChannel(s, "/Users/reillyfarrell/Desktop/Compositions/Granular Synthesis Suite for Masashi Hamauzu (SuperCollider)/Sample Soundfiles/Kaki_Sample.wav", 0, -1, [0]);
+b = Buffer.readChannel(s, "/Users/reillyfarrell/Desktop/Compositions/Granular Synthesis Suite/Sample Soundfiles/Kaki_Sample.wav", 0, -1, [1]);
+
+z = Buffer.sendCollection(s, Env.asr(0.01, 1, 1).discretize, 1);
+)
+
+/////Final Score/////
+(Pbind(
+	\instrument, \granny,
+	\sndbuf, [a, b],
+	\envbuf, z,
+	\amp, Pn(Pseries(2, 0.005, 20)),
+	\dur, 0.4,
+	\graindur, Pseries(3, -0.006, 500),
+	\pos, Pn(Pseries(0, 0.05, 20)),
+	\transp, Pseries(1, -0.00001, 500),
+	\trig, Pseries(0, 0.01, 500),
+	\mix, 0,
+	\legato, Pseries(2, -0.0038, 500),
+).trace.play;
+
+Pbind(
+	\instrument, \granny,
+	\sndbuf, [a, b],
+	\envbuf, z,
+	\amp, Pn(Pseries(2, 0.005, 20)),
+	\dur, 0.4,
+	\graindur, Pseries(3, -0.006, 500),
+	\pos, Pn(Pseries(0, 0.05, 20)),
+	\transp, Pseries(1, -0.00002, 500),
+	\trig, Pseries(0, 0.01, 500),
+	\mix, 0,
+	\legato, Pseries(2, -0.0038, 500),
+).trace.play;)
+
+s.record;
+s.stopRecording;
