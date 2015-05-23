@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "About Me"
-date: 2014-06-02T09:44:20-04:00
-modified: 2015-5-21T14:56:44-04:00
+date: 2015-05-21
+modified: 2015-05-21
 excerpt: "Who is this guy?"
 image:
   feature:
