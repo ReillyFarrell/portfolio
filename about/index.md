@@ -12,9 +12,9 @@ share: false
 ads: false
 ---
 
-Reilly Farrell studies music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com.](https://capybaraworld.wordpress.com/about/)
+I'm Reilly Farrell.  I study music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com](https://capybaraworld.wordpress.com/about/).
 
-Check out his work on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
+Come check out my work on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
 
 ###Software
 [SuperCollider](http://supercollider.github.io)
