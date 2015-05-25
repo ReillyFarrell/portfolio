@@ -3,7 +3,7 @@ layout: article
 title: "Pulse Wave Phase"
 modified:
 categories: supercollider-code
-excerpt: "A short minimalist electronic composition."
+excerpt: "A short minimalist electronic composition"
 tags: []
 image:
   feature: 
