@@ -16,7 +16,7 @@ A short minimalist electronic composition.  Two pulse wave voices accelerate at 
 [Listen here](https://soundcloud.com/capybarrage-reilly/pulse-wave-phase-1).
 
 ####Code
-{% highlight css linenos=table %}
+{% highlight javascript linenos=table %}
 //////////////////////
 // Pulse Wave Phase //
 //////////////////////
