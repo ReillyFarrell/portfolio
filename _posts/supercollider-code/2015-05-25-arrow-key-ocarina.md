@@ -29,7 +29,7 @@ Simple code for a simple virtual instrument in [SuperCollider](http://supercolli
 
 ####Code
 
-{% highlight javascript linenos=table %}
+{% highlight javascript %}
 //Virtual Ocarina (alto, one octave)
 //inspired by The Legend of Zelda: Ocarina of Time
 
