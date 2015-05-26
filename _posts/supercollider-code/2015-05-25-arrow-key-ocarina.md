@@ -37,7 +37,6 @@ Simple code for a simple virtual instrument in [SuperCollider](http://supercolli
 w = Window.new("Play away!");
 w.view.background = Color(0.1,0.4,0.1,0.8);
 w.front;
-// w.onClose({ "wow".postln });
 
 x = {CombN.ar(SinOsc.ar([74,83,81,77,86].midicps*MouseY.kr(1.1,0.9),0,KeyState.kr([49,123,124,125,126],0,1,0)*MouseY.kr(0.3,0.1)),0.1,0.1,MouseX.kr(0,1))!2}.play;
 
