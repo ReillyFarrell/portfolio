@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Intervals: Miniature Piano Suite (in progress)"
+title: "Intervals: A Miniature Piano Suite (in progress)"
 modified:
 categories: scores
 excerpt: "Short piano pieces based on intervalic relationships."
