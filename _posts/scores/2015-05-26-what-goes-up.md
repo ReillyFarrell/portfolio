@@ -6,8 +6,8 @@ categories: scores
 excerpt: "For guitar and cello."
 tags: []
 image:
-  feature:
-  teaser:
+  feature: 
+  teaser: greymire.JPG
   thumb:
 date: 2015-5-21
 ---
