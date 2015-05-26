@@ -7,7 +7,7 @@
 
 - title: Scores
   url: /scores/
-  excerpt: "Handwritten scores."
+  excerpt: "Downloadable PDFs."
   image: 400x250.gif
 
 - title: SoundCloud
@@ -17,5 +17,5 @@
 
 - title: About
   url: /about/
-  excerpt: "Who did this?!?."
+  excerpt: "Who did this?"
   image: 400x250.gif
