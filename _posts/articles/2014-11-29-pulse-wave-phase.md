@@ -9,7 +9,7 @@ image:
   feature: 
   teaser: sand.jpg
   thumb: 
-date: 2015-5-21
+date: 2015-5-15
 ---
 A short minimalist electronic composition.  Two pulse wave voices accelerate at different speeds.  This way the piece gets faster even as the two voices phase away of one another.  I've given each voice a different width to distinguish them.
 
