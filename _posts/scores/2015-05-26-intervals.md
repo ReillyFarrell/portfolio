@@ -3,7 +3,7 @@ layout: article
 title: "Intervals: A Miniature Piano Suite (in progress)"
 modified:
 categories: scores
-excerpt: "Short piano pieces based on intervalic relationships."
+excerpt: "Short piano pieces based on intervalic relationships"
 tags: []
 image:
   feature:
