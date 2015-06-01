@@ -7,7 +7,7 @@ excerpt: "Short piano pieces based on intervalic relationships."
 tags: []
 image:
   feature:
-  teaser:
+  teaser: clouds.jpg
   thumb:
 date: 2015-5-21
 ---
