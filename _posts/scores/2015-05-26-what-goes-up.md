@@ -7,7 +7,7 @@ excerpt: "For guitar and cello."
 tags: []
 image:
   feature: 
-  teaser: greymire.JPG
+  teaser: moon.jpg
   thumb:
 date: 2015-5-21
 ---
