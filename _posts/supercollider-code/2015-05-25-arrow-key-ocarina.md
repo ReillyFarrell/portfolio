@@ -7,7 +7,7 @@ excerpt: "Virtual instrument inspired by Ocarina of Time"
 tags: []
 image:
   feature:
-  teaser:
+  teaser: woods.jpg
   thumb:
 date: 2015-5-21
 ---
