@@ -23,10 +23,10 @@ gems:
 # Site owner
 owner:
   name: Reilly Farrell
-  web: http://nytimes.com
+  web: http://reillyfarrell.github.io/portfolio
   email: reillycfarrell@gmail.com
   twitter: mmistakes
-  bio: "Hello world!  This is my bio."
+  bio: "Reilly Farrell is a composer and creative writer from Santa Clara University."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: +MichaelRoseDesign
