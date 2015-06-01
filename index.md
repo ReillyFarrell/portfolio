@@ -2,5 +2,5 @@
 layout: home
 permalink: /
 image:
-  feature: 
+  feature: ship.jpg
 ---
