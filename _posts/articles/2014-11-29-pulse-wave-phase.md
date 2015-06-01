@@ -7,7 +7,7 @@ excerpt: "A short minimalist electronic composition"
 tags: []
 image:
   feature: 
-  teaser: 
+  teaser: sand.jpg
   thumb: 
 date: 2015-5-21
 ---
