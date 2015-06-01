@@ -3,12 +3,12 @@
 - title: SuperCollider Code
   url: /supercollider-code/
   excerpt: "Code in SuperCollider."
-  image: ship.jpg
+  image: poke.jpg
 
 - title: Scores
   url: /scores/
   excerpt: "Downloadable PDFs."
-  image: ship.jpg
+  image: range.jpg
 
 - title: SoundCloud
   url: https://soundcloud.com/capybarrage-reilly
@@ -18,4 +18,4 @@
 - title: About
   url: /about/
   excerpt: "Who did this?"
-  image: ship.jpg
+  image: cows.jpg
