@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: SuperCollider Code
-  url: /supercollider-code/
+  url: http://reillyfarrell.github.io/portfolio/supercollider-code/
   excerpt: "Code in SuperCollider."
   image: poke.jpg
 
 - title: Scores
-  url: /scores/
+  url: http://reillyfarrell.github.io/portfolio/scores/
   excerpt: "Downloadable PDFs."
   image: range.jpg
 
@@ -16,6 +16,6 @@
   image: cliff.jpg
 
 - title: About
-  url: /about/
+  url: http://reillyfarrell.github.io/portfolio/about/
   excerpt: "Who did this?"
   image: plain.jpg
