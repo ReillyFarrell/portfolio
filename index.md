@@ -8,8 +8,8 @@ image:
 <div class="tiles">		
 	
 <div class="tile">		
-  <h2 class="post-title">Built for Jekyll 2</h2>		
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>		
+  <h2 class="post-title">Musical Compositions 2</h2>		
+  <p class="post-excerpt">Scores, summaries, code, and recordings of my musical works.</p>		
 </div><!-- /.tile -->		
 		
 <div class="tile">		
