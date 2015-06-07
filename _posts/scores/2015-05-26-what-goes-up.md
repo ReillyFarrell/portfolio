@@ -2,8 +2,8 @@
 layout: article
 title: "What Goes Up"
 modified:
-categories: scores
-excerpt: "For guitar and cellosss"
+categories: supercollider-code
+excerpt: "For guitar and cello"
 tags: []
 image:
   feature: 
