@@ -3,11 +3,11 @@ layout: archive
 title: "SoundCloud"
 date: 2014-05-30T11:39:03-04:00
 modified:
-excerpt: "Links to recordings of compositions on my SoundCloud account."
+excerpt: "Audio recordings of musical compositions."
 tags: []
 image:
   feature:
   teaser:
 ---
 
-[My personal SoundCloud account for composition recordings.](https://soundcloud.com/capybarrage-reilly)
+[Come have a listen to my work](https://soundcloud.com/capybarrage-reilly)!
