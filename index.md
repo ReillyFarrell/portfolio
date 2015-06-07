@@ -9,7 +9,7 @@ image:
 	
 <div class="tile">		
   <h2 class="post-title">Composer</h2>		
-  <p class="post-excerpt">with a passion for videogame audio.  I create original music, both acoustic and electronic, with specialty in algorithmic composition.</p>		
+  <p class="post-excerpt">with a passion for videogame audio, specializing in electronic and algorithmic composition.</p>		
 </div><!-- /.tile -->		
 		
 <div class="tile">		
