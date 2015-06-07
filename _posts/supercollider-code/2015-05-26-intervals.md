@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Intervals: A Miniature Piano Suite (in progress)"
+title: "Intervals: Mini Piano Suite (in progress)"
 modified:
 categories: supercollider-code
 excerpt: "Short piano pieces based on intervalic relationships"
