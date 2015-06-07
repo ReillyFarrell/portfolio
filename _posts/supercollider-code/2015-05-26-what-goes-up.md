@@ -2,7 +2,7 @@
 layout: article
 title: "What Goes Up"
 modified:
-categories: supercollider-code
+categories: music
 excerpt: "For guitar and cello"
 tags: []
 image:
