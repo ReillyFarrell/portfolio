@@ -8,13 +8,13 @@ image:
 <div class="tiles">		
 	
 <div class="tile">		
-  <h2 class="post-title">As a composer,</h2>		
-  <p class="post-excerpt">I create original music, both acoustic and electronic, with specialty in algorithmic composition.</p>		
+  <h2 class="post-title">Composer</h2>		
+  <p class="post-excerpt">with a passion for videogame audio.  I create original music, both acoustic and electronic, with specialty in algorithmic composition.</p>		
 </div><!-- /.tile -->		
 		
 <div class="tile">		
-  <h2 class="post-title">As a creative writer,</h2>		
-  <p class="post-excerpt">I enjoy writing comedy sketches, screenplays, poems, flash fiction, and more.</p>		
+  <h2 class="post-title">Creative Writer</h2>		
+  <p class="post-excerpt">of comedy sketches, adaptive screenplays, poems, flash fiction, and more.</p>		
 </div><!-- /.tile -->		
 		
 </div><!-- /.tiles --> 		
