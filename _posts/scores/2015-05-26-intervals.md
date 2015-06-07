@@ -2,7 +2,7 @@
 layout: article
 title: "Intervals: A Miniature Piano Suite (in progress)"
 modified:
-categories: scores
+categories: supercollider-code
 excerpt: "Short piano pieces based on intervalic relationships"
 tags: []
 image:
