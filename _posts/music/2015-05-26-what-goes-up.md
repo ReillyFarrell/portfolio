@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "What Goes Up MOOOOOO I'm a cow"
+title: "What Goes Up"
 modified:
 categories: music
 excerpt: "For guitar and cello"
@@ -11,7 +11,8 @@ image:
   thumb:
 date: 2015-5-21
 ---
-A piece for guitar and cello.  My goal was to create the feel of two different meters (simple triple and compound duple) using a single instrument.  The cellist enters midway through, playing an elongated version of the melody.
+
+For guitar and cello.
 
 [Have a look at the score](https://drive.google.com/file/d/0ByNSDE0eceDFSmJnX0VvdmhJY3M/view?usp=sharing).
 
