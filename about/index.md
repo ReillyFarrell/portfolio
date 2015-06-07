@@ -12,9 +12,11 @@ share: false
 ads: false
 ---
 
-I'm Reilly Farrell.  I study music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com](https://capybaraworld.wordpress.com/about/).
+I'm Reilly Farrell, a composer and a game audio enthusiast.  I compose original work both, acoustically and electronically.  My specialty is algorithmic composition, created in a programming language and environment called SuperCollider - though I have experience in a range of other programs too.  Come listen to my musical works on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
 
-Come check out my work on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
+My second passion is creative writing - particularly screenwriting.  
+
+I studied both music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com](https://capybaraworld.wordpress.com/about/).  
 
 ####Software
 [SuperCollider](http://supercollider.github.io)
