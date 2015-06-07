@@ -2,12 +2,12 @@
 layout: article
 title: "Intervals: Mini Piano Suite (in progress)"
 modified:
-categories: supercollider-code
+categories: music
 excerpt: "Short piano pieces based on intervalic relationships"
 tags: []
 image:
   feature:
-  teaser: clouds.jpg
+  teaser: 
   thumb:
 date: 2015-5-21
 ---
