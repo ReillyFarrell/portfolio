@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "What Goes Up"
+title: "What Goes Up MOOOOOO I'm a cow"
 modified:
 categories: music
 excerpt: "For guitar and cello"
