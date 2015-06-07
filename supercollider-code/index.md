@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "SuperCollider Code"
+title: "Music"
 date: 2014-05-30T11:39:03-04:00
 modified:
 excerpt: 
@@ -18,7 +18,7 @@ Here you will find the code behind my electronic music projects.
 
 ####Projects in SuperCollider
 <div class="tiles">
-{% for post in site.categories.supercollider-code %}
+{% for post in site.categories.music %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
