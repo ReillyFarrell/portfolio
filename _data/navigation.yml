@@ -2,12 +2,12 @@
 
 - title: Music
   url: /music/
-  excerpt: "Code in SuperCollider."
+  excerpt: "Summaries, scores, code, and audio recordings of musical compositions."
   image: poke.jpg
 
-- title: Scores
-  url: /scores/
-  excerpt: "Downloadable PDFs."
+- title: Creative Writing
+  url: /creative-writing/
+  excerpt: "Poems, screenplays, and comedy sketches."
   image: range.jpg
 
 - title: SoundCloud
