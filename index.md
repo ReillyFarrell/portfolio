@@ -2,6 +2,5 @@
 layout: home
 permalink: /
 image:
-  feature: profilepic1.jpg
-  teaser: profilepic1.jpg
+  feature: wood-texture-1600x800.jpg
 ---
