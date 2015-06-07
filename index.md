@@ -8,23 +8,18 @@ image:
 <div class="tiles">		
 	
 <div class="tile">		
-  <h2 class="post-title">Musical Compositions 2</h2>		
-  <p class="post-excerpt">Scores, summaries, code, and recordings of my musical works.</p>		
+  <h2 class="post-title">SuperCollider</h2>		
+  <p class="post-excerpt">Code used to generate and organize electronic music in SuperCollider.</p>		
 </div><!-- /.tile -->		
 		
 <div class="tile">		
-  <h2 class="post-title">Content First</h2>		
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>		
+  <h2 class="post-title">Scores</h2>		
+  <p class="post-excerpt">Musical scores, writeups, and related materials.</p>		
 </div><!-- /.tile -->		
 		
 <div class="tile">		
-  <h2 class="post-title">Customizable</h2>		
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>		
-</div><!-- /.tile -->		
-		
-<div class="tile">		
-  <h2 class="post-title">Extensible</h2>		
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>		
+  <h2 class="post-title">SoundCloud</h2>		
+  <p class="post-excerpt">Audio recordings of musical compositions.</p>		
 </div><!-- /.tile -->		
 		
 </div><!-- /.tiles --> 		
