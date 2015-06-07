@@ -2,6 +2,6 @@
 layout: home
 permalink: /
 image:
-  feature: 
+  feature: profilepic1.jpg
   teaser: 
 ---
