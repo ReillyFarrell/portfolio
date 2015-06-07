@@ -5,7 +5,7 @@ date: 2015-05-21
 modified: 2015-05-21
 excerpt: "Who is this guy?"
 image:
-  feature:
+  feature: profilepic1.jpg
   teaser:
   thumb:
 share: false
