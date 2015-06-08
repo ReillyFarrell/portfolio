@@ -12,13 +12,10 @@ share: false
 ads: false
 ---
 
-I'm a music composer, a creative writer, and a fresh Santa Clara University graduate living in the Bay Area.  
-
-
 ####Music
-I compose original music, both acoustically and electronically.
+I compose original music, both acoustically and electronically.  
 
-| Software (click for more information)               |                                         |
+| Software Proficiency (click for more information)   |                                         |
 |-----------------------------------------------------|-----------------------------------------|
 | [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
 | [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
