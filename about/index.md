@@ -16,14 +16,14 @@ From 2011-2015, I studied both music composition and creative writing at Santa C
 
 
 
-| Software                                        |                                         |
-|-------------------------------------------------|-----------------------------------------|
-| [SuperCollider](http://supercollider.github.io) | an audio synthesis programming language |
-| [Ardour](http://ardour.org)                     | a digital audio workstation             |
-| [Audacity](http://web.audacityteam.org/about/)  | a digital audio editor                  |
-| [MuseScore](https://musescore.org)              | notation software                       |
-| [Hydrogen](http://www.hydrogen-music.org/hcms/) | virtual drum machine                    |
-| [SooperLooper](http://essej.net/sooperlooper/)  | live looping sampler                    |
+| Software                                            |                                         |
+|-----------------------------------------------------|-----------------------------------------|
+| [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
+| [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
+| [**Audacity**](http://web.audacityteam.org/about/)  | a digital audio editor                  |
+| [**MuseScore**](https://musescore.org)              | notation software                       |
+| [**Hydrogen**](http://www.hydrogen-music.org/hcms/) | virtual drum machine                    |
+| [**SooperLooper**](http://essej.net/sooperlooper/)  | live looping sampler                    |
 
 Come check out my musical work on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
 
