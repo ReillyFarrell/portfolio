@@ -14,9 +14,6 @@ ads: false
 
 From 2011-2015, I studied both music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com](https://capybaraworld.wordpress.com/about/).  
 
-
-
-|                                                     |                                         |
 |-----------------------------------------------------|-----------------------------------------|
 | [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
 | [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
