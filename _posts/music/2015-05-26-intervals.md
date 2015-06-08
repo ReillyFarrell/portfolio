@@ -16,7 +16,7 @@ A tiny little collection of tiny little piano pieces, each based on a different 
 [**Listen to the full suite here**](https://soundcloud.com/capybarrage-reilly/sets/intervals-a-miniature-piano).
 
 | Movement | Score (PDF Link) | Description/Audio |
-|:-------------------------------------------------------------------------------------:|:----------------------------:|:---:|
+|:-------------------------------------------------------------------------------------|:----------------------------:|:---:|
 | 2nds | [**Read Here**](https://drive.google.com/file/d/0ByNSDE0eceDFakhPWkl4OUtrUVU/view?usp=sharing) | Based on major and minor 2nd intervals.  [**Listen here**](https://soundcloud.com/capybarrage-reilly/2nds-performed-by-melissa-lin). |
 | 4ths | [**Read Here**](https://drive.google.com/file/d/0ByNSDE0eceDFTEhSWG13bDRpMTQ/view?usp=sharing) | Based on perfect and augmented 4th intervals.  [**Listen here**](https://soundcloud.com/capybarrage-reilly/4ths-performed-by-melissa-lin?in=capybarrage-reilly/sets/intervals-a-miniature-piano). |
 | 7ths | [**Read Here**](https://drive.google.com/file/d/0ByNSDE0eceDFVUgxdWF2bkhHRlE/view?usp=sharing) | Based on major and minor 7th intervals.  [**Listen here**](https://soundcloud.com/capybarrage-reilly/7ths-performed-by-melissa-lin?in=capybarrage-reilly/sets/intervals-a-miniature-piano). |
