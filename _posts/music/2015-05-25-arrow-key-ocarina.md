@@ -6,7 +6,9 @@ categories: music
 excerpt: "virtual instrument inspired by Ocarina of Time"
 tags: []
 image:
-  feature:
+  feature: Brenderous.jpg
+  credit: Brenderous
+  creditlink: https://www.flickr.com/photos/brenderous/4385634645/in/photolist-pshcEE-bkoZvR-pWmMw5-pNwf5d-3ry39-dNnoLt-btww2r-dZR7R1-9G1rm8-9KXssH-cWR1if-ezT3MD-rpN5oM-cuVeLL-aFC7Jn-5YPfb6-7Fxwor-aF2nBx-dMuwP4-dqzJq-h1RyJA-2iiTWN-6oSeVY-9aUGQH-7jdisF-nWdXLS-9FfbjK-nat2E7-pTfecC-r8FKTM-cuUA6Q-4pZMH4-dhhHbk-3P9C2h-cuUViy-r2GRN8-aNEg8F-5hMCZW-9aBKW-6iXJMq-6qAEyw-5EqZez-iXqupY-f1H2DQ-6giYU-8fkLUH-dMtzCW-nx6oid-bEYSpA-nx6ofY
   teaser: Brenderous.jpg
   thumb:
 date: 2015-5-21
