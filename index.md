@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: Nicolas_Lannuzel.jpg
+  feature: wood-texture-1600x800.jpg
 ---
 		
 <div class="tiles">		
