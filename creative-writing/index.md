@@ -9,8 +9,7 @@ image:
   feature: 
   teaser: 
 ---
-####Musical scores, write-ups, and related materials.
-Here you can find various things I wrote, scribbled or typed for my compositions so that one day other people could understand them.
+Spacially organized words.  Suggested reading order is left-to-right, top-to-bottom across the page.  
 
 <div class="tiles">
 {% for post in site.categories.creative-writing %}
