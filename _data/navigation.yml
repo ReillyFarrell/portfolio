@@ -10,9 +10,9 @@
   excerpt: "Audio recordings of musical compositions."
   image: range.jpg
 
-- title: SoundCloud
-  url: https://soundcloud.com/capybarrage-reilly
-  excerpt: "Links to recorded works."
+- title: Creative Writing
+  url: /creative-writing/
+  excerpt: "Things I wrote."
   image: cliff.jpg
 
 - title: Profile
