@@ -6,7 +6,7 @@ modified:
 excerpt: 
 tags: []
 image:
-  feature:
+  feature: pencil-n-paper.jpg
   teaser:
 ---
 ####Musical scores, write-ups, and related materials.
