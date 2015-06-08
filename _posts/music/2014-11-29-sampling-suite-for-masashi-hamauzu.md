@@ -16,10 +16,10 @@ date: 2015-5-01
 ####(from "Etude No. 8 in G-Minor, Op. 4")
 This is the [first movement](https://soundcloud.com/capybarrage-reilly/etude-from-etude-no-8-in-g-minor-op-4?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) of my [Sampling Suite for Masashi Hamauzu.](https://soundcloud.com/capybarrage-reilly/sets/sampling-suite-for-masashi-1)  The project involved creating new music using five to ten seconds of pre-composed material.
 
-
+|:--------:|:----------------------:|:-----:|
 | Movement | Score (.scd File Link) | Audio |
-|:----------:|:---------------------------------:|:---------:|
-| Etude (from "Etude No. 8 in G-Minor, Op. 4") | Code Here | Listen Here |
+|:---------------------------------------------|:---------------------------------:|:---------:|
+| Etude (from "Etude No. 8 in G-Minor, Op. 4") | Code Here                         | Listen Here |
 | Elf (from "Elfenkonigin" and "Weihalter") | Code Here | Listen Here |
 | δ (from "δ - 7" and "δ - 17") | Code Here | Listen Here |
 | Kaki (from "Kaki") | Code Here | Listen Here |
