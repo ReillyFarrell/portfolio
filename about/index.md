@@ -12,10 +12,11 @@ share: false
 ads: false
 ---
 
-####Music
-I compose original music, both acoustically and electronically.  
+I'm a composer with a passion for videogame audio.  
 
-| Software Proficiency (click for more information)   |                                         |
+
+Who taught me to use such programs as:
+
 |-----------------------------------------------------|-----------------------------------------|
 | [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
 | [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
