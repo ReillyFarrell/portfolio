@@ -9,7 +9,7 @@ image:
   feature: 
   teaser: 
 ---
-Spacially organized words.  Suggested reading order is left-to-right, top-to-bottom across the page.  
+Spacially organized words.  Suggested order for reading words is left-to-right, top-to-bottom across the page.  
 
 <div class="tiles">
 {% for post in site.categories.creative-writing %}
