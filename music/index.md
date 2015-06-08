@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-Summaries, scores, code, and audio recordings for musical compositions and projects.
+Summaries, scores, and code for musical compositions and projects.
 
 <div class="tiles">
 {% for post in site.categories.music %}
