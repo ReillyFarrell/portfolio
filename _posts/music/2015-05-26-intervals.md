@@ -3,7 +3,7 @@ layout: article
 title: "Intervals: Mini Piano Suite (in progress)"
 modified:
 categories: music
-excerpt: "short piano pieces based on intervalic relationships"
+excerpt: "for piano, based on intervalic relationships"
 tags: []
 image:
   feature: Gordon_Tarpley.jpg
