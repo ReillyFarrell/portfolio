@@ -19,10 +19,10 @@ An electronic suite constructed from short samples of [Masashi Hamauzu's](http:/
 *All samples used were originally composed by Masashi Hamauzu, and were remixed as a show of admiration for his compositions, not for profit.  Please support his official works!*
 
 |:--------:|:----------------------:|:-----:|
-| Movement | Code (.scd File Link) | Audio |
+| Movement                                     | Code (.scd File Link)             | Audio     |
 |:---------------------------------------------|:---------------------------------:|:---------:|
-| Etude (from "Etude No. 8 in G-Minor, Op. 4") | Code Here                         | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/etude-from-etude-no-8-in-g-minor-op-4?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
-| Elf (from "Elfenkonigin" and "Weihalter") | Code Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/elf-from-elfenkonigin-and-weihalter?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
-| δ (from "δ - 7" and "δ - 17") | Code Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/from-7-and-17?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
-| Kaki (from "Kaki") | Code Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/kaki-from-kaki?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
-| Face (from "Face It Later" | Code Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/face-from-face-it-later?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| Etude (from "Etude No. 8 in G-Minor, Op. 4") | Read Here                         | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/etude-from-etude-no-8-in-g-minor-op-4?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| Elf (from "Elfenkonigin" and "Weihalter") | Read Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/elf-from-elfenkonigin-and-weihalter?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| δ (from "δ - 7" and "δ - 17") | Read Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/from-7-and-17?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| Kaki (from "Kaki") | Read Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/kaki-from-kaki?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| Face (from "Face It Later" | Read Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/face-from-face-it-later?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
