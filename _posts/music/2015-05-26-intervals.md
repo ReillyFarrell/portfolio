@@ -11,7 +11,9 @@ image:
   thumb:
 date: 2015-5-21
 ---
-A tiny little collection of tiny little piano pieces, each based on a different interval.  [**Listen to the full suite here**](https://soundcloud.com/capybarrage-reilly/sets/intervals-a-miniature-piano).
+A tiny little collection of tiny little piano pieces, each based on a different interval. 
+
+[**Listen to the full suite here**](https://soundcloud.com/capybarrage-reilly/sets/intervals-a-miniature-piano).
 
 | Movement | Score (PDF Link) | Description/Audio |
 |:-------------------------------------------------------------------------------------:|:----------------------------:|:---:|
