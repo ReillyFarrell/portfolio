@@ -19,8 +19,8 @@ This is the [first movement](https://soundcloud.com/capybarrage-reilly/etude-fro
 |:--------:|:----------------------:|:-----:|
 | Movement | Score (.scd File Link) | Audio |
 |:---------------------------------------------|:---------------------------------:|:---------:|
-| Etude (from "Etude No. 8 in G-Minor, Op. 4") | Code Here                         | Listen Here |
-| Elf (from "Elfenkonigin" and "Weihalter") | Code Here | Listen Here |
-| δ (from "δ - 7" and "δ - 17") | Code Here | Listen Here |
-| Kaki (from "Kaki") | Code Here | Listen Here |
-| Face (from "Face It Later" | Code Here | Listen Here |
+| Etude (from "Etude No. 8 in G-Minor, Op. 4") | Code Here                         | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/etude-from-etude-no-8-in-g-minor-op-4?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| Elf (from "Elfenkonigin" and "Weihalter") | Code Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/elf-from-elfenkonigin-and-weihalter?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| δ (from "δ - 7" and "δ - 17") | Code Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/from-7-and-17?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| Kaki (from "Kaki") | Code Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/kaki-from-kaki?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
+| Face (from "Face It Later" | Code Here | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/face-from-face-it-later?in=capybarrage-reilly/sets/sampling-suite-for-masashi-1) |
