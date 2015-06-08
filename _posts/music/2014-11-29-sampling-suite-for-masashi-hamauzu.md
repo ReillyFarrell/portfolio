@@ -14,7 +14,7 @@ image:
 date: 2015-5-01
 ---
 
-An electronic suite constructed from short samples of Masashi Hamauzu's piano pieces.  This suite was made in SuperCollider using a granular sampling patch shared with me by [Bruno Ruviaro](http://sccode.org/bruno).  [Listen to the full suite here](https://soundcloud.com/capybarrage-reilly/sets/sampling-suite-for-masashi-1).
+An electronic suite constructed from short samples of [Masashi Hamauzu's](http://en.wikipedia.org/wiki/Masashi_Hamauzu) piano pieces.  This suite was made in SuperCollider using a granular sampling patch shared with me by [Bruno Ruviaro](http://sccode.org/bruno).  [Listen to the full suite here](https://soundcloud.com/capybarrage-reilly/sets/sampling-suite-for-masashi-1).
 
 *All samples used were originally composed by Masashi Hamauzu, and were remixed as a show of admiration for his compositions, not for profit.  Please support his official works!*
 
