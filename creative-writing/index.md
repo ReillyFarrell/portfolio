@@ -6,8 +6,8 @@ modified:
 excerpt: 
 tags: []
 image:
-  feature: pencil-n-paper.jpg
-  teaser:
+  feature: 
+  teaser: pencil-n-paper.jpg
 ---
 ####Musical scores, write-ups, and related materials.
 Here you can find various things I wrote, scribbled or typed for my compositions so that one day other people could understand them.
