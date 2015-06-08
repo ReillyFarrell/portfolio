@@ -16,7 +16,7 @@ From 2011-2015, I studied both music composition and creative writing at Santa C
 
 
 
-| Software                                            |                                         |
+| ###Software                                         |                                         |
 |-----------------------------------------------------|-----------------------------------------|
 | [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
 | [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
