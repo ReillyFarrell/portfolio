@@ -6,8 +6,8 @@ categories: music
 excerpt: "Short piano pieces based on intervalic relationships"
 tags: []
 image:
-  feature:
-  teaser: 
+  feature: 
+  teaser: Gordon_Tarpley.jpg
   thumb:
 date: 2015-5-21
 ---
