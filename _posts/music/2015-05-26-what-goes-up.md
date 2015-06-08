@@ -17,4 +17,4 @@ For guitar and cello.
 
 | Score | Audio |
 |:--:|:---:|:---:|
-| [Have a look at the score](https://drive.google.com/file/d/0ByNSDE0eceDFSmJnX0VvdmhJY3M/view?usp=sharing). | [Listen here](https://soundcloud.com/capybarrage-reilly/what-goes-up-performed-by-nick-schott-and-songyi-chun). |
+| [**Read Here**](https://drive.google.com/file/d/0ByNSDE0eceDFSmJnX0VvdmhJY3M/view?usp=sharing). | [**Listen Here**](https://soundcloud.com/capybarrage-reilly/what-goes-up-performed-by-nick-schott-and-songyi-chun). |
