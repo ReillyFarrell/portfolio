@@ -3,7 +3,7 @@ layout: article
 title: "Arrow Key Ocarina"
 modified:
 categories: music
-excerpt: "Virtual instrument inspired by Ocarina of Time"
+excerpt: "virtual instrument inspired by Ocarina of Time"
 tags: []
 image:
   feature:
