@@ -3,7 +3,7 @@ layout: article
 title: "What Goes Up"
 modified:
 categories: music
-excerpt: "for guitar and cello"
+excerpt: "for guitar and cello, exploring rhythic tension between meters"
 tags: []
 image:
   feature: Nicolas_Lannuzel.jpg
