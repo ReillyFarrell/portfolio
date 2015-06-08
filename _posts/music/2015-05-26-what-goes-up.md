@@ -3,7 +3,7 @@ layout: article
 title: "What Goes Up"
 modified:
 categories: music
-excerpt: "For guitar and cello."
+excerpt: "for guitar and cello"
 tags: []
 image:
   feature: 
