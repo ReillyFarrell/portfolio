@@ -2,12 +2,12 @@
 layout: article
 title: "Arrow Key Ocarina"
 modified:
-categories: supercollider-code
+categories: music
 excerpt: "Virtual instrument inspired by Ocarina of Time"
 tags: []
 image:
   feature:
-  teaser: woods.jpg
+  teaser: Brenderous.jpg
   thumb:
 date: 2015-5-21
 ---
