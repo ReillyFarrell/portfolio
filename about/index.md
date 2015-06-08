@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Profile"
+title: "About Me"
 date: 2015-05-21
 modified: 2015-05-21
 excerpt: "Who is Reilly Farrell?"
@@ -12,9 +12,13 @@ share: false
 ads: false
 ---
 
-From 2011-2015, I studied both music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com](https://capybaraworld.wordpress.com/about/).  
+I'm a music composer, a creative writer, and a fresh Santa Clara University graduate living in the Bay Area.  
 
-|                                                     |                                         |
+
+####Music
+I compose original music, both acoustically and electronically.
+
+| Software (click for more information)               |                                         |
 |-----------------------------------------------------|-----------------------------------------|
 | [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
 | [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
@@ -23,7 +27,8 @@ From 2011-2015, I studied both music composition and creative writing at Santa C
 | [**Hydrogen**](http://www.hydrogen-music.org/hcms/) | virtual drum machine                    |
 | [**SooperLooper**](http://essej.net/sooperlooper/)  | live looping sampler                    |
 
-Come check out my musical work on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
+Come check out my musical work on [SoundCloud](https://soundcloud.com/capybarrage-reilly)!
+
 
 ####Creative Writing
 
