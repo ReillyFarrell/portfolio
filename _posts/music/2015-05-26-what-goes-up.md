@@ -7,7 +7,7 @@ excerpt: "For guitar and cello"
 tags: []
 image:
   feature: 
-  teaser: moon.jpg
+  teaser: Nicolas_Lannuzel.jpg
   thumb:
 date: 2015-5-21
 ---
