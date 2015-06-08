@@ -3,7 +3,7 @@ layout: article
 title: "Sampling Suite for Masashi Hamauzu"
 modified:
 categories: music
-excerpt: "Created using a Granular Synthesis Patch in SuperCollider."
+excerpt: "created using a Granular Synthesis Patch in SuperCollider"
 tags: []
 image:
   feature: jeriaska.jpg
