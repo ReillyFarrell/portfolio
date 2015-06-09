@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Profile"
+title: "About"
 date: 2015-05-21
 modified: 2015-05-21
 excerpt: "Who is Reilly Farrell?"
