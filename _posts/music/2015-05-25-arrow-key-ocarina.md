@@ -3,7 +3,7 @@ layout: article
 title: "Arrow Key Ocarina"
 modified:
 categories: music
-excerpt: "in SuperCollider, a virtual instrument inspired by *The Legend of Zelda: Ocarina of Time*"
+excerpt: "in SuperCollider, a virtual instrument inspired by The Legend of Zelda: Ocarina of Time"
 tags: []
 image:
   feature: Brenderous.jpg
