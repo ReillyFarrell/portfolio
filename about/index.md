@@ -21,8 +21,8 @@ Ever since I was little I've had a passion for videogame audio and filmscore.  N
 | [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
 | [**Audacity**](http://web.audacityteam.org/about/)  | a digital audio editor                  |
 | [**MuseScore**](https://musescore.org)              | notation software                       |
-| [**Hydrogen**](http://www.hydrogen-music.org/hcms/) | virtual drum machine                    |
-| [**SooperLooper**](http://essej.net/sooperlooper/)  | live looping sampler                    |
+| [**Hydrogen**](http://www.hydrogen-music.org/hcms/) | a virtual drum machine                  |
+| [**SooperLooper**](http://essej.net/sooperlooper/)  | a live looping sampler                  |
 
 Come check out my musical work on [SoundCloud](https://soundcloud.com/capybarrage-reilly)!
 
