@@ -20,6 +20,7 @@ Summaries, scores, and code for musical compositions and projects.
 </div><!-- /.tiles -->
 
 ####Electronic
+Hello world!
 <div class="tiles">
 {% for post in site.categories.music %}
   {% include post-grid.html %}
