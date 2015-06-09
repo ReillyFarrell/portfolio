@@ -14,4 +14,4 @@ image:
 date: 2015-5-01
 ---
 
-*Story of a Mother* is a fairy tale written by Hans Christian Andersen that 
+*Story of a Mother* is a fairy tale written by Hans Christian Andersen - one of my favorites.  I hope you enjoy this adaptive screenplay as much as I enjoy his work.  
