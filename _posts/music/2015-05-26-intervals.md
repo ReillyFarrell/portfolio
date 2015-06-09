@@ -2,7 +2,7 @@
 layout: article
 title: "Intervals: Mini Piano Suite (in progress)"
 modified:
-categories: music
+categories: acoustic
 excerpt: "for piano, based on intervalic relationships"
 tags: []
 image:
