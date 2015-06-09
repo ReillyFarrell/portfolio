@@ -17,9 +17,7 @@ Summaries, scores, and code for musical compositions and projects.
 {% for post in site.categories.acoustic %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->  
-
-####Electr<br>onic
+</div><!-- /.tiles --><br>Electronic
 <div class="tiles">
 {% for post in site.categories.music %}
   {% include post-grid.html %}
