@@ -19,7 +19,7 @@ As part of an recreational pet project, all of the following were created in Mic
 </div><!-- /.tiles -->
 
 ####Original Photography
-(Insert description)
+(Insert description) THESE ARE PLACEHOLDERS - NOT MY ORIGINAL PHOTOGRAPHY YET
 
 <div class="tiles">
 {% for post in site.categories.creative-writing %}
