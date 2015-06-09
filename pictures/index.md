@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Pictures"
+title: "6x6 Sunsets"
 date: 2014-05-30T11:39:03-04:00
 modified:
 excerpt: 
@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-I'm no visual artist, but here's some original visual art just for you.
+I'm no visual artist - but here's some original visual art just for you, created in Microsoft Word on a default 6x6 table.
 
 <div class="tiles">
 {% for post in site.categories.pictures %}
