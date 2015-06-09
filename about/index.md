@@ -34,4 +34,4 @@ My second passion is creative writing - particularly screenwriting and sketch co
 ####Santa Clara University (Class of '15)
 From 2011-2015, I studied both music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com](https://capybaraworld.wordpress.com/about/).
 
-While there, I was especially active in the New Music Ensemble and the new laptop orchestra, SCLOrk.  
+While there, I was especially active in the New Music Ensemble and the new laptop orchestra, [SCLOrk](https://www.youtube.com/watch?v=Lts9vEBCDQ8).  
