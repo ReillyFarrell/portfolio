@@ -12,8 +12,16 @@ image:
 
 Summaries, scores, and code for musical compositions and projects.
 
+####Acoustic
 <div class="tiles">
-{% for post in site.categories.media %}
+{% for post in site.categories.music %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+####Electronic
+<div class="tiles">
+{% for post in site.categories.music %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
