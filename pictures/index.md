@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-Well, I'm no visual artist, but here's some original visual art just for you.
+I'm no visual artist, but here's some original visual art just for you.
 
 <div class="tiles">
 {% for post in site.categories.pictures %}
