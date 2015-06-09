@@ -18,6 +18,7 @@ As part of an recreational pet project, all of the following were created in Mic
 {% endfor %}
 </div><!-- /.tiles -->
 
+
 ####Original Photography
 (Insert description) THESE ARE PLACEHOLDERS - NOT MY ORIGINAL PHOTOGRAPHY YET
 
