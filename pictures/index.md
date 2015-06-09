@@ -9,8 +9,8 @@ image:
   feature:
   teaser:
 ---
-####Pictures
-I'm no visual artist - but here's some original visual art just for you, created in Microsoft Word on a default 6x6 table.
+####6x6 Sunset
+As part of an recreational pet project, all of the following were created in Microsoft Word document with a default 6x6 cell table.
 
 <div class="tiles">
 {% for post in site.categories.pictures %}
@@ -18,7 +18,9 @@ I'm no visual artist - but here's some original visual art just for you, created
 {% endfor %}
 </div><!-- /.tiles -->
 
-####Creative Writing
+####Original Photography
+(Insert description)
+
 <div class="tiles">
 {% for post in site.categories.creative-writing %}
   {% include post-grid.html %}
