@@ -13,7 +13,6 @@ image:
 Summaries, scores, and code for musical compositions and projects.
 
 ####Acoustic
-
 <div class="tiles">
 {% for post in site.categories.acoustic %}
   {% include post-grid.html %}
@@ -22,8 +21,6 @@ Summaries, scores, and code for musical compositions and projects.
 
 
 ####Electronic
-Hello world!
-
 <div class="tiles">
 {% for post in site.categories.music %}
   {% include post-grid.html %}
