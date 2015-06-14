@@ -9,3 +9,10 @@ image:
   feature:
   teaser:
 ---
+
+
+<div class="tiles">
+{% for post in site.categories.pictures %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
