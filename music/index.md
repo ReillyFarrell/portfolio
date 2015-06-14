@@ -12,9 +12,6 @@ image:
 
 Summaries, scores, and code for musical compositions and projects.
 
-puppycat
-
-####Acoustic
 <div class="tiles">
 {% for post in site.categories.acoustic %}
   {% include post-grid.html %}
