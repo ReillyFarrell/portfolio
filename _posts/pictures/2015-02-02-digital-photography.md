@@ -7,7 +7,7 @@ excerpt:  "Original photography."
 tags: []
 image:
   feature:
-  teaser: tree.jpg
+  teaser: still.jpg
   thumb:
 date: 2015-5-01
 ---
