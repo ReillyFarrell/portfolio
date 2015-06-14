@@ -12,6 +12,8 @@ image:
 
 Summaries, scores, and code for musical compositions and projects.
 
+At times unbearably so.
+
 ####Acoustic
 <div class="tiles">
 {% for post in site.categories.acoustic %}
