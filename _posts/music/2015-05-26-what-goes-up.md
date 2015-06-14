@@ -2,7 +2,7 @@
 layout: article
 title: "What Goes Up"
 modified:
-categories: acoustic
+categories: music
 excerpt: "for guitar and cello, exploring rhythic tension between meters"
 tags: []
 image:
