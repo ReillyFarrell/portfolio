@@ -19,11 +19,4 @@ puppycat
 {% for post in site.categories.acoustic %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles --><P>
-
-####Electronic
-<div class="tiles">
-{% for post in site.categories.music %}
-  {% include post-grid.html %}
-{% endfor %}
 </div><!-- /.tiles -->
