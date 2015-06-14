@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 ####6x6 Sunset
-As part of an recreational pet project, all of the following were created in Microsoft Word document with a default 6x6 cell tablessssssss.
+As part of an recreational pet project, all of the following were created in Microsoft Word document with a default 6x6 cell table.
 
 <div class="tiles">
 {% for post in site.categories.6x6-sunset %}
