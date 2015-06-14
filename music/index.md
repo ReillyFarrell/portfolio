@@ -12,7 +12,7 @@ image:
 
 Summaries, scores, and code for musical compositions and projects.
 
-At times unbearably so.
+
 
 ####Acoustic
 <div class="tiles">
@@ -22,6 +22,7 @@ At times unbearably so.
 </div><!-- /.tiles -->
 
 <P>
+
 ####Electronic
 <div class="tiles">
 {% for post in site.categories.music %}
