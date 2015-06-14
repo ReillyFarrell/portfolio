@@ -3,7 +3,7 @@ layout: article
 title: "Digital Photography"
 modified:
 categories: pictures
-excerpt:  "Original photography."
+excerpt:  "Original photography"
 tags: []
 image:
   feature:
