@@ -7,7 +7,7 @@ excerpt:  "Original photography."
 tags: []
 image:
   feature:
-  teaser: ship.jpg
+  teaser: tree.jpg
   thumb:
 date: 2015-5-01
 ---
