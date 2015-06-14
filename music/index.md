@@ -12,7 +12,7 @@ image:
 
 Summaries, scores, and code for musical compositions and projects.
 
-####Acoustic
+####Acoustic<br>
 <div class="tiles">
 {% for post in site.categories.acoustic %}
   {% include post-grid.html %}
