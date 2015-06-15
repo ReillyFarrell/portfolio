@@ -14,6 +14,7 @@ image:
 date: 2015-5-01
 ---
 {% highlight javascript %}
+
 To watch you smoke,
 choke, across campus
 
