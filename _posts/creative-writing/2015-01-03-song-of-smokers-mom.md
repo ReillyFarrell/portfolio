@@ -13,39 +13,11 @@ image:
   thumb:
 date: 2015-5-01
 ---
-
-To watch you smoke,
-choke, across campus
-
-is to witness
-walking cacophony-
-
-the hack-
-ack!  ack!
-
-of tobacco smacks of rocks clacking
-against other rocks - a stark
-
-strain in your chords.
-Bob Dylan
-
-tracks start to 
-remind me of you
-
-a few decades older.
-You are no more
-
-a boy scout - they kicked you out.
-You never could
-
-cut it out - you
-kept on
-
-always like a bad
-habit
-
-I threatened to kick
-you out of the house in scorn
-
-but that’s dumb: I’ll lock you
-in the chimney.
+{% highlight javascript %}
+Caimans are like capybaras, and
+            like capybaras,
+            like capybaras,
+                            and
+            like capybaras,
+Caimans are
+{% endhighlight %}
