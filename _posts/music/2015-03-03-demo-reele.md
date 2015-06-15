@@ -15,6 +15,8 @@ date: 2015-5-21
 ---
 A sound-design/music makeover for gameplay footage from The Legend of Zelda: Oracle of Ages.  All sounds and music were created from scratch in SuperCollider and arranged into the four "channels" of GameBoy Color sound in Ardour.
 
+[**Listen Here**](https://www.youtube.com/watch?v=0ONYmxlX8fg)
+
 Footage originally captured by [Roxas9408](https://www.youtube.com/watch?v=2PTcmMBhcRQ).
 
 ####Code
