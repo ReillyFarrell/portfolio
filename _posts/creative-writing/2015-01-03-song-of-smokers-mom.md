@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Song of Smoker's Mom"
+title: "Song of Smoker'ssss Mom"
 modified:
 categories: creative-writing
 excerpt: after "Song of Smoke" by Kevin Young
