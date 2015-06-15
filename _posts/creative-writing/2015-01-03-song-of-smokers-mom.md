@@ -13,7 +13,7 @@ image:
   thumb:
 date: 2015-5-01
 ---
-{% highlight javascript %}
+
 To watch you smoke,
 choke, across campus
 
@@ -49,4 +49,3 @@ you out of the house in scorn
 
 but that’s dumb: I’ll lock you
 in the chimney.
-{% endhighlight %}
