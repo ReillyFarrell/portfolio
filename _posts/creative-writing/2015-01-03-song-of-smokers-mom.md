@@ -13,7 +13,7 @@ image:
   thumb:
 date: 2015-5-01
 ---
-####after "Song of Smoke" by Kevin Young
+####after ["Song of Smoke" by Kevin Young](http://www.poetryfoundation.org/poem/250250)
 
 To watch you smoke,<br>
 choke, across campus
