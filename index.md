@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: moon.jpg
+  feature: IMG_2355 number 3.jpg
 ---
 		
 <div class="tiles">		
