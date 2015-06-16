@@ -13,6 +13,8 @@ image:
   thumb:
 date: 2015-5-01
 ---
+####after "Song of Smoke" by Kevin Young
+
 To watch you smoke,<br>
 choke, across campus
 
