@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: IMG_2355 number 3.jpg
+  feature: wood-texture-1600x800.jpg
 ---
 		
 <div class="tiles">		
