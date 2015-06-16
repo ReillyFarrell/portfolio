@@ -14,6 +14,6 @@ image:
 date: 2015-5-01
 ---
 
-*Story of a Mother* is a fairy tale written by Hans Christian Andersen - one of my favorites.  I hope you enjoy this adaptive screenplay as much as I enjoy his work.  
+*Story of a Mother* is a fairy tale written by Hans Christian Andersen - and both of these are favorites of mine.  For this adaptation, I referred to Erik Christian Haugaard's translation of the original Danish text, and kept his interpretation of the dialogue intact as much as possible.  I hope you enjoy this screenplay as much as I enjoy the author's work.
 
 [**Read Here**](https://drive.google.com/file/d/0ByNSDE0eceDFdlNydXprc1VMNHM/view?usp=sharing)
