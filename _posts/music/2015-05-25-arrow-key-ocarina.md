@@ -13,7 +13,9 @@ image:
   thumb:
 date: 2015-5-21
 ---
-Simple code for a simple virtual instrument in [SuperCollider](http://supercollider.github.io/).  This code plays an array of sine waves with five different MIDI note values.  Each note in the array has a respective KeyState assignment.  Once the code is evaluated, SuperCollider will play all five notes continuously, but the volume for each is set to zero until KeyState recognizes input from an assigned key (i.e.: D5, the spacebar note, D5, is always running, but you won't hear it until you press the spacebar and release the sound).
+Simple code for a simple virtual instrument in [SuperCollider](http://supercollider.github.io/), modeled after *The Legend of Zelda: Ocarina of Time's* titular in-game instrument.
+
+This code plays an array of sine waves with five different MIDI note values.  Each note in the array has a respective KeyState assignment.  Once the code is evaluated, SuperCollider will play all five notes continuously, but the volume for each is set to zero until KeyState recognizes input from an assigned key (i.e.: D5, the spacebar note, D5, is always running, but you won't hear it until you press the spacebar and release the sound).
 
 ####How to Play
 - Use the spacebar and arrow keys to play.
