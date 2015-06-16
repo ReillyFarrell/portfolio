@@ -14,7 +14,7 @@ image:
 date: 2015-5-21
 ---
 
-For guitar and cello.
+For guitar and cello.  As the guitarist lays a 6/8 melody over 3/4 accompaniment, the cellist echoes and elongates the melodic notes.
 
 | Score (PDF Link) | Audio |
 |:--:|:---:|:---:|
