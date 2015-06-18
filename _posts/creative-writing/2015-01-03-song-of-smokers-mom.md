@@ -15,8 +15,6 @@ date: 2015-5-01
 ---
 ####after ["Song of Smoke" by Kevin Young](http://www.poetryfoundation.org/poem/250250)
 
-```
-
 To watch you smoke,<br>
 choke, across campus
 
@@ -52,5 +50,3 @@ you out of the house in scorn
 
 but that’s dumb: I’ll lock you<br>
 in the chimney.
-
-```
