@@ -6,10 +6,10 @@ categories: creative-writing
 excerpt: a villanelle
 tags: []
 image:
-  feature: 
-  credit: Paul Williams
-  creditlink: https://www.flickr.com/photos/ironammonite/8442805702/in/photolist-dS4zZy-cUHD6y-7rXZx7-deUpM2-kFGGop-dK2uc3-b6yNEF-7tCZrY-6YqxfE-a6bTBA-irewJY-96aS1M-2MBdZT-cgyzcd-6rLJpU-6g5YA1-hjrEsi-hhNFsz-hhMFLJ-hhMGJ7-5pSTju-8Tp6p6-asbd6Z-acJSXn-5pST6h-bDVRfy-acMM8m-jZQMk-5xQ1Hr-7SJHQF-b53TRX-9Homvd-8NNHqq-a6cNnR-bSrPHH-7KuGUe-7B9iv7-ptvrJ-otdFSQ-ebCBfx-5UKJPQ-bRSXDF-3Qiqf-5iUFYz-4Bd61A-Np5gY-acMMXj-fnS8b8-aahKMp-5UFmmt
-  teaser: 
+  feature: Bemup.jpg
+  credit: Bemup
+  creditlink: https://www.flickr.com/photos/40626436@N00/2428641358/in/photolist-4ND52a-2TRv1X-4GBqsS-4NTut8-4ND52D-51D2wG-47rQ35-2TRtxK-4NUEw8-4P4Vze-4Mbv1H-4P8Va5-4pSAA9-4P4NXX-4Ppw7M-4P9aZ7-PNtB4-4P8VmS-8HpDpg-4P588t-2axHih-5S8M7W-7JMzap-4P4VCP-92GSQW-4NXJNs-4NXBnU-6jBN28-5BwP4a-6trFFR-8p4P7f-4jkSHB-5b54d4-5gwhoe-4NXvWb-5R7s6J-5FNPfM-4HAQ1G-8adQ8J-59DwiU-4P58av-PNtBz-4P4Vyz-4P9nbU-5JyUwL-4P9aXN-5L2WCw-5FjgVj-5gAC5S-auuUQ9
+  teaser: Bemup.jpg
   thumb:
 date: 2015-5-01
 ---
