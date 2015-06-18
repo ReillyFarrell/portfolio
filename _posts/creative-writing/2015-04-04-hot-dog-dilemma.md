@@ -13,7 +13,7 @@ image:
   thumb:
 date: 2015-5-01
 ---
-{% highlight javascript %}
+
 A dachshund stuck inside a hotdog bun
 Does not count as a frankfurter, my son,
 ‘Cause doggies don’t belong in hotdog buns
@@ -38,4 +38,3 @@ And now my sausages are overdone
 Go catch the dachshund, ask if he wants one
 But do not stick him in a hotdog bun,
 Son, doggies don’t belong in hotdog buns
-{% endhighlight %}
