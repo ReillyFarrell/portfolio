@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Demo Reele"
+title: "Chiptune Sound Design Demo"
 date: 2014-05-31T23:14:02-04:00
 modified:
 categories: music
