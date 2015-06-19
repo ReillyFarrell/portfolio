@@ -13,7 +13,6 @@ image:
   creditlink: https://www.flickr.com/photos/bochalla/7062053233/in/photolist-bL3Sov-AGLwM-8EoFnU-bL3RMM-4PrsU-62fsM1-nGRrGr-qjtXKH-4PrsA-kGSAMi-bvc5zB-5Xvz1r-5WdWcQ-4Prsf-6HebzJ-nL7fZb-mo74B-9cWX9-qyDsou-AGLwR-rvH5pb-nqDF43-nNqeRn-nAECZu-oyYreW-qoiutY-6D8kZ-7yDhkT-7yDhfr-7yH5i7-7yDh3B-6h5Xwj-Eocyn-ozaKd1-oc6p6b-3kWJbH-2jdmB-q4m7Ti-5fjM8-qbzXBw-reFq7P-AGLwF-4Prsj-nToofb-oJidtT-nNqf6R-nNptir-qjnC4S-bL3RSg-fBL2Qx
   teaser: Bryan-Ochalla.jpg
 ---
-{% include toc.html %}
 
 <figure>
 	<a href="https://www.flickr.com/photos/bochalla/7062053233/in/photolist-bL3Sov-AGLwM-8EoFnU-bL3RMM-4PrsU-62fsM1-nGRrGr-qjtXKH-4PrsA-kGSAMi-bvc5zB-5Xvz1r-5WdWcQ-4Prsf-6HebzJ-nL7fZb-mo74B-9cWX9-qyDsou-AGLwR-rvH5pb-nqDF43-nNqeRn-nAECZu-oyYreW-qoiutY-6D8kZ-7yDhkT-7yDhfr-7yH5i7-7yDh3B-6h5Xwj-Eocyn-ozaKd1-oc6p6b-3kWJbH-2jdmB-q4m7Ti-5fjM8-qbzXBw-reFq7P-AGLwF-4Prsj-nToofb-oJidtT-nNqf6R-nNptir-qjnC4S-bL3RSg-fBL2Qx"><img src="https://www.flickr.com/photos/bochalla/7062053233/in/photolist-bL3Sov-AGLwM-8EoFnU-bL3RMM-4PrsU-62fsM1-nGRrGr-qjtXKH-4PrsA-kGSAMi-bvc5zB-5Xvz1r-5WdWcQ-4Prsf-6HebzJ-nL7fZb-mo74B-9cWX9-qyDsou-AGLwR-rvH5pb-nqDF43-nNqeRn-nAECZu-oyYreW-qoiutY-6D8kZ-7yDhkT-7yDhfr-7yH5i7-7yDh3B-6h5Xwj-Eocyn-ozaKd1-oc6p6b-3kWJbH-2jdmB-q4m7Ti-5fjM8-qbzXBw-reFq7P-AGLwF-4Prsj-nToofb-oJidtT-nNqf6R-nNptir-qjnC4S-bL3RSg-fBL2Qx"></a>
