@@ -15,7 +15,7 @@ image:
 ---
 
 <figure>
-	<a href="http://placehold.it/900x450.gif"><img src="http://placehold.it/900x450.gif"></a>
+	<a href="Bryan-Ochalla.jpg"><img src="http://placehold.it/900x450.gif"></a>
 	<figcaption>Image caption.</figcaption>
 </figure>
 
