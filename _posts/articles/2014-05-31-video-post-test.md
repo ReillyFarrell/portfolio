@@ -6,7 +6,7 @@ modified:
 categories: music
 excerpt: "A post with a YouTube video."
 tags: [video]
-ads: true
+ads: false
 image:
   feature:
   teaser:
