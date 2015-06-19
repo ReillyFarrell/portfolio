@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-Summaries, scores, and code for musical compositions and projects.
+Scores and code I wrote for my musical compositions.  Audio examples of these pieces and more are available on [SoundCloud](https://soundcloud.com/capybarrage-reilly).
 
 <div class="tiles">
 {% for post in site.categories.music %}
