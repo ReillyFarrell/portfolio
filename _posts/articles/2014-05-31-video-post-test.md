@@ -16,4 +16,4 @@ Here's a sample video to test FitVid.js
 
 If this is working correctly the video should fill the main content container.
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=0ONYmxlX8fg" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/0ONYmxlX8fg" frameborder="0"> </iframe>
