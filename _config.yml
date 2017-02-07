@@ -1,9 +1,16 @@
 # Site wide configuration
 
+<<<<<<< HEAD
 title: Reilly Farrell
 description: "Composer, Creative Writer"
 logo: ship.jpg
 teaser: ship.jpg
+=======
+title: Skinny Bones
+description: "A lightweight site starter for Jekyll"
+logo: 120x120.gif
+teaser: 400x250.gif
+>>>>>>> parent of fc24f4e... First attempt
 locale: en_US
 url: 
 
@@ -22,12 +29,21 @@ gems:
 
 # Site owner
 owner:
+<<<<<<< HEAD
   name: Reilly Farrell
   web: 
   email: reillycfarrell@gmail.com
   twitter: mmistakes
   bio: "Reilly Farrell is a composer and creative writer from Santa Clara University."
   avatar: profilepic1.jpg # 160x160 px image for author byline
+=======
+  name: Michael Rose
+  web: http://mademistakes.com
+  email: michael@mademistakes.com
+  twitter: mmistakes
+  bio: "Just another boring, tattooed, time traveling designer."
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+>>>>>>> parent of fc24f4e... First attempt
   google:
     plus: +MichaelRoseDesign
     ad-client: ca-pub-7328585512091257
