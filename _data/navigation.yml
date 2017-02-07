@@ -1,21 +1,21 @@
 # Site navigation links
 
 - title: Music
-  url: %/music/
+  url: /music/
   excerpt: "Summaries, scores, and code for musical compositions."
   image: Brenderous.jpg
 
 - title: Creative Writing
-  url: %/creative-writing/
+  url: /creative-writing/
   excerpt: "Things I wrote."
   image: Elizabeth-Haslam.jpg
 
 - title: Pictures
-  url: %/pictures/
+  url: /pictures/
   excerpt: "Look!"
   image: moon.jpg
 
 - title: Profile
-  url: %/profile/
+  url: /profile/
   excerpt: "Who is Reilly Farrell?"
   image: profilepic.jpg
