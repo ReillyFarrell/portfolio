@@ -1,16 +1,16 @@
 # Footer navigation links
 
-- title: Home
-  url: /
+- title:
+  url:
 
-- title: Music
-  url: /music/
+- title:
+  url: 
   
-- title: Creative Writing
-  url: /creative-writing/
+- title:
+  url:
 
-- title: Pictures
-  url: /pictures/
+- title:
+  url:
 
-- title: Profile
-  url: /profile/
+- title:
+  url:
