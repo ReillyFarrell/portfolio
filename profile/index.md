@@ -30,6 +30,7 @@ Thanks for listening, folks. I hope you like what you’re hearing as much as I 
 | [**LilyPond**](http://lilypond.org/)                | notation software                       |
 
 | Misc. Music Synthesis Apps                          |                                         |
+|-----------------------------------------------------|-----------------------------------------|
 | [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
 | [**Hydrogen**](http://www.hydrogen-music.org/hcms/) | a virtual drum machine                  |
 | [**SooperLooper**](http://essej.net/sooperlooper/)  | a live looping sampler                  |
