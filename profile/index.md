@@ -18,11 +18,9 @@ I’ve been obsessed with Japanese video game soundtracks for as long as I can r
 
 Thanks for listening, folks. I hope you like what you’re hearing as much as I would like to pet a capybara.
 
-| Digital Audio Workstations                          |                                         |
+| Music Production Tools |                                         |
 |-----------------------------------------------------|-----------------------------------------|
-| [**Logic Pro X**](http://www.apple.com/logic-pro/)  |                                         |
-| [**Ardour4**](http://ardour.org)                    |                                         |
-| [**Audacity**](http://web.audacityteam.org/about/)  |                                         |
+| Digital Audio Workstations | [**Logic Pro X**](http://www.apple.com/logic-pro/), KORG DSN-12, [**Ardour4**](http://ardour.org), [**Audacity**](http://web.audacityteam.org/about/) |
 
 | Music Notation Software                             |                                         |
 |-----------------------------------------------------|-----------------------------------------|
