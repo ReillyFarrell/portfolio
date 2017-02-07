@@ -18,23 +18,20 @@ I’ve been obsessed with Japanese video game soundtracks for as long as I can r
 
 Thanks for listening, folks. I hope you like what you’re hearing as much as I would like to pet a capybara.
 
-| Digital Audio Workstations                          |-----------------------------------------|
+| Digital Audio Workstations                          |                                         |
 |-----------------------------------------------------|-----------------------------------------|
-| [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
-| [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
-| [**Audacity**](http://web.audacityteam.org/about/)  | a digital audio editor                  |
+| [**Logic Pro X**] (http://www.apple.com/logic-pro/) |                                         |
+| [**Ardour4**](http://ardour.org)                    |                                         |
+| [**Audacity**](http://web.audacityteam.org/about/)  |                                         |
+
+| Digital Audio Workstations                          |                                         |
+|-----------------------------------------------------|-----------------------------------------|
+| (http://supercollider.github.io)                    | an audio synthesis programming language |
+
 | [**MuseScore**](https://musescore.org)              | notation software                       |
+| [**LilyPond**](http://lilypond.org/)                | notation software                       |
+
 | [**Hydrogen**](http://www.hydrogen-music.org/hcms/) | a virtual drum machine                  |
 | [**SooperLooper**](http://essej.net/sooperlooper/)  | a live looping sampler                  |
 
-Come check out my musical work on [SoundCloud](https://soundcloud.com/capybarrage-reilly)!
-
-
-####Creative Writing
-
-My second passion is creative writing - particularly screenwriting and sketch comedy writing.  I learned the skills for both as part of a college youtube comedy channel called [BroncoTV](https://www.youtube.com/user/broncotv/featured).
-
-####Santa Clara University (Class of '15)
-From 2011-2015, I studied both music composition and creative writing at Santa Clara University and capybaras at [capybaraworld.wordpress.com](https://capybaraworld.wordpress.com/about/).
-
-While there, I was especially active in Concert Choir, the New Music Ensemble, and the new laptop orchestra: [SCLOrk](https://www.youtube.com/watch?v=Lts9vEBCDQ8).  
+Come check out my musical work on [SoundCloud](https://soundcloud.com/reillyfarrell/tracks)!
