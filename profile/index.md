@@ -20,7 +20,7 @@ Thanks for listening, folks. I hope you like what you’re hearing as much as I 
 
 | Music Production Tools |                                         |
 |-----------------------------------------------------|-----------------------------------------|
-| [**Digital Audio Workstations**] | [**Logic Pro X**](http://www.apple.com/logic-pro/), [**KORG DSN-12**](http://www.korg.com/us/products/synthesizers/korg_dsn12/), [**Ardour4**](http://ardour.org), [**Audacity**](http://web.audacityteam.org/about/) |
+| Digital Audio Workstations | [**Logic Pro X**](http://www.apple.com/logic-pro/), [**KORG DSN-12**](http://www.korg.com/us/products/synthesizers/korg_dsn12/), [**Ardour4**](http://ardour.org), [**Audacity**](http://web.audacityteam.org/about/) |
 
 | Music Notation Software | [**MuseScore**](https://musescore.org), [**LilyPond**](http://lilypond.org/) |
 | Audio Synthesis Programs | [**SuperCollider**](http://supercollider.github.io) |
