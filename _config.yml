@@ -5,7 +5,7 @@ description: "Composer, Creative Writer"
 logo: ship.jpg
 teaser: ship.jpg
 locale: en_US
-url: //reillyfarrell.github.io/portfolio
+url: 
 
 # Jekyll configuration
 
@@ -23,7 +23,7 @@ gems:
 # Site owner
 owner:
   name: Reilly Farrell
-  web: http://reillyfarrell.github.io/portfolio
+  web: 
   email: reillycfarrell@gmail.com
   twitter: mmistakes
   bio: "Reilly Farrell is a composer and creative writer from Santa Clara University."
