@@ -12,9 +12,7 @@ share: false
 ads: false
 ---
 
-####Music Composition
-
-One part composer and one part capybara fanatic - that is me. Nice to meet you!
+####One part composer and one part capybara fanatic - that is me. Nice to meet you!
 
 I’ve been obsessed with Japanese video game soundtracks for as long as I can remember. Composers like Masashi Hamauzu, Kohei Tanaka, Keiichi Okabe and Yoko Kanno inspired me to get into music making. Maybe that’s why, whether I’m creating or listening, I’m drawn towards music that’s both spacious and danceable. Capybaras just inspire me in general.
 
