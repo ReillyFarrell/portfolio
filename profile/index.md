@@ -3,7 +3,7 @@ layout: article
 title: "Profile"
 date: 2015-05-21
 modified: 2015-05-21
-excerpt: "Who is Reilly Farrell?!??!?!?!?!"
+excerpt: "Who is Reilly Farrell?"
 image:
   feature: profilepic.jpg
   teaser: 
@@ -14,7 +14,7 @@ ads: false
 
 ####Music Composition
 
-Ever since IIIIIIII was little I've had a passion for videogame audio and filmscore.  Now I compose my own original music, both acoustically and electronically.  I specialize in algorithmic composition, and much of my work is done in a programming language called SuperCollider - though I have experience with a variety of other music software as well:
+Ever since I was little I've had a passion for videogame audio and filmscore.  Now I compose my own original music, both acoustically and electronically.  I specialize in algorithmic composition, and much of my work is done in a programming language called SuperCollider - though I have experience with a variety of other music software as well:
 
 |-----------------------------------------------------|-----------------------------------------|
 | [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
