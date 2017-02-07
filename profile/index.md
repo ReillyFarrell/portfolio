@@ -20,17 +20,12 @@ Thanks for listening, folks. I hope you like what you’re hearing as much as I 
 
 | Music Production Tools |                                         |
 |-----------------------------------------------------|-----------------------------------------|
-| Digital Audio Workstations | [**Logic Pro X**](http://www.apple.com/logic-pro/), KORG DSN-12, [**Ardour4**](http://ardour.org), [**Audacity**](http://web.audacityteam.org/about/) |
+| [**Digital Audio Workstations**] | [**Logic Pro X**](http://www.apple.com/logic-pro/), [**KORG DSN-12**](http://www.korg.com/us/products/synthesizers/korg_dsn12/), [**Ardour4**](http://ardour.org), [**Audacity**](http://web.audacityteam.org/about/) |
 
-| Music Notation Software                             |                                         |
-|-----------------------------------------------------|-----------------------------------------|
-| [**MuseScore**](https://musescore.org)              | notation software                       |
-| [**LilyPond**](http://lilypond.org/)                | notation software                       |
+| Music Notation Software | [**MuseScore**](https://musescore.org), [**LilyPond**](http://lilypond.org/) |
+| Audio Synthesis Programs | [**SuperCollider**](http://supercollider.github.io) |
+| Loop Sampling Programs | [**SooperLooper**](http://essej.net/sooperlooper/) |
+| Virtual Drum Machines | [**Hydrogen**](http://www.hydrogen-music.org/hcms/) |
 
-| Misc. Music Synthesis Apps                          |                                         |
-|-----------------------------------------------------|-----------------------------------------|
-| [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
-| [**Hydrogen**](http://www.hydrogen-music.org/hcms/) | a virtual drum machine                  |
-| [**SooperLooper**](http://essej.net/sooperlooper/)  | a live looping sampler                  |
 
 Come check out my musical work on [SoundCloud](https://soundcloud.com/reillyfarrell/tracks)!
