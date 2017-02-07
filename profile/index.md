@@ -14,8 +14,13 @@ ads: false
 
 ####Music Composition
 
-Ever since I was little I've had a passion for videogame audio and filmscore.  Now I compose my own original music, both acoustically and electronically.  I specialize in algorithmic composition, and much of my work is done in a programming language called SuperCollider - though I have experience with a variety of other music software as well:
+One part composer and one part capybara fanatic - that is me. Nice to meet you!
 
+I’ve been obsessed with Japanese video game soundtracks for as long as I can remember. Composers like Masashi Hamauzu, Kohei Tanaka, Keiichi Okabe and Yoko Kanno inspired me to get into music making. Maybe that’s why, whether I’m creating or listening, I’m drawn towards music that’s both spacious and danceable. Capybaras just inspire me in general.
+
+Thanks for listening, folks. I hope you like what you’re hearing as much as I would like to pet a capybara.
+
+| Digital Audio Workstations                          |-----------------------------------------|
 |-----------------------------------------------------|-----------------------------------------|
 | [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
 | [**Ardour**](http://ardour.org)                     | a digital audio workstation             |
