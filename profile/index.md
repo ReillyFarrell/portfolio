@@ -5,7 +5,7 @@ date: 2015-05-21
 modified: 2015-05-21
 excerpt: "Who is Reilly Farrell?"
 image:
-  feature: profilepic.jpg
+  feature: 
   teaser: 
   thumb:
 share: false
@@ -20,17 +20,17 @@ Thanks for listening, folks. I hope you like what you’re hearing as much as I 
 
 | Digital Audio Workstations                          |                                         |
 |-----------------------------------------------------|-----------------------------------------|
-| [**Logic Pro X**] (http://www.apple.com/logic-pro/) |                                         |
+| [**Logic Pro X**](http://www.apple.com/logic-pro/)  |                                         |
 | [**Ardour4**](http://ardour.org)                    |                                         |
 | [**Audacity**](http://web.audacityteam.org/about/)  |                                         |
 
-| Digital Audio Workstations                          |                                         |
+| Music Notation Software                             |                                         |
 |-----------------------------------------------------|-----------------------------------------|
-| (http://supercollider.github.io)                    | an audio synthesis programming language |
-
 | [**MuseScore**](https://musescore.org)              | notation software                       |
 | [**LilyPond**](http://lilypond.org/)                | notation software                       |
 
+| Misc. Music Synthesis Apps                          |                                         |
+| [**SuperCollider**](http://supercollider.github.io) | an audio synthesis programming language |
 | [**Hydrogen**](http://www.hydrogen-music.org/hcms/) | a virtual drum machine                  |
 | [**SooperLooper**](http://essej.net/sooperlooper/)  | a live looping sampler                  |
 
